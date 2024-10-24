@@ -1,3 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #25343b ;
+}
+
+p {
+    color:#adb6b4;
+
+}
+
 .tipografia-Lucida-Sans {
     font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
 }
@@ -6,4 +19,86 @@
 }
 .tipografia-arial {
     font-family: Arial, Gadget, sans-serif;
+}
+
+/* Titulo */
+
+.border-1 {
+    border: 1px solid white;
+    padding:10px;
+    background-color: white;
+    text-align: center;
+    color:  #6d8594;
+    font-size: 60px;
+    letter-spacing: 1px;
+}
+
+/* Aspiradoras */
+
+.border-2 {
+
+    color:  #e0c7b9 ;
+    text-transform:uppercase ;
+    text-align: start;
+}
+.img-1 {
+    border: 4px solid #e0c7b9 ;
+    margin-left: 40px;
+}
+
+/* celulares */
+
+.border-3 {
+
+    color:   #9fbfc8 ;
+    text-transform:uppercase ;
+    text-align: start;
+}
+
+.img-2 {
+    border: 4px solid #9fbfc8 ;
+    margin-left: 40px;
+}
+
+/* consolas */
+
+.border-4 {
+
+    color:   #b4b5b5 ;
+    text-transform:uppercase ;
+    text-align: start;
+}
+
+.img-3 {
+    border: 4px solid #b4b5b5 ;
+    margin-left: 40px;
+}
+
+/* home theaters */
+
+.border-5 {
+
+    color:   #88909d ;
+    text-transform:uppercase ;
+    text-align: start;
+}
+
+.img-4 {
+    border: 4px solid #88909d ;
+    margin-left: 40px;
+}
+
+/* televisores */
+
+.border-6 {
+
+    color:   #aeaea5 ;
+    text-transform:uppercase;
+    text-align: start;
+    
+}
+
+.img-5 {
+    border: 4px solid #aeaea5 ;
+    margin-left: 40px;
 }
